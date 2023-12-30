@@ -65,8 +65,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![OUTPUT](output2.png)
-![OUTPUT](output2.png)
+![output1](output1.png)
+![output2](output2.png)
 
 ## RESULT:
 The program is executed succesfully
